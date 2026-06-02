@@ -1,5 +1,7 @@
 # CLAUDE.md
 
+> Code - OSS: the open-source codebase behind Visual Studio Code — a TypeScript code editor for desktop (Electron), web, and remote/server environments.
+
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
 This is the **Code - OSS** repository (the open-source base of Visual Studio Code), built with TypeScript on a layered architecture spanning web, Electron desktop, and remote/server environments. A sibling AI-focused guide with the full coding guidelines lives at [.github/copilot-instructions.md](.github/copilot-instructions.md) — read it for the complete style/quality rules; this file summarizes the highest-leverage parts and the commands.
